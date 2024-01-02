@@ -19,7 +19,7 @@ export default function Home() {
                         <button className="btn btn-active btn-link w-48 text-lg text-black" style={{ textDecoration: 'none' }}><img src="src/assets/home/buttonHome.svg"></img>Play Video</button>
                         </div>
                     </div>
-                    <img src="src/assets/home/home1.svg" className="max-w-screen-2xl ml-14 p-10" />
+                    <img src="src/assets/home/home1.svg" className="max-w-screen-2xl ml-14 p-10" width={600} />
                 </div>
             </div>
         </>

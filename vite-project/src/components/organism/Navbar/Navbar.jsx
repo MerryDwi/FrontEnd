@@ -33,7 +33,7 @@ export default function Navbar() {
                         </div>
                     </div>
                    
-                    <img alt="Logo" src="src/assets/header/logo2.svg" style={{ maxWidth: '100%' }} />
+                    <img alt="Logo" src="src/assets/header/logo2.svg" width={180} />
 
                 </div>
                 <div className="navbar-center hidden lg:flex pl-10 pr-10">
